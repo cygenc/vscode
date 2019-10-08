@@ -1,8 +1,11 @@
-Alignment
+Align
 Code Spell Checker
+DotENV
+French - Code Spell Checker
 French Language Pack for VS
 PHP DocBlocker
 PHP Getters & Setters
 PHP Namespace Resolver
 Sort Lines by Selection
+String Convert
 TWIG pack
